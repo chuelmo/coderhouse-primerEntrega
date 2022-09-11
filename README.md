@@ -1,2 +1,8 @@
-# coderhouse-primerEntrega
-Primer entrega proyecto - Curso backend en Coderhouse
+# Desafío 7 - Primer entrega del Proyecto Final
+
+## Como correr este desafío
+
+- Clonar el repo
+- Ejecutar:
+  - npm install
+  - npm run dev
